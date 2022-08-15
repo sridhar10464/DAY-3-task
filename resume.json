@@ -1,0 +1,55 @@
+ 
+{
+    "basics": {
+      "name": "Sridhar N",
+      "email": "nsridhar10464@gmail.comp",
+      "phone": "7708057073",
+      "degree": "B.E",
+      "location": {
+        "address": "192, Green city, perumalpattu",
+        "postalCode": "602024",
+        "city": "chennai",
+        "region": "Indian"
+      }
+      
+    },
+    "work": [
+      {
+        "company": "Sundaram clayton ltd",
+        "position": "Senior engineer",
+        "startDate": "2005-11-20",
+        "endDate": "2021-04-04"
+        
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "Sathybama university",
+        "area": "Mechanical",
+        "studyType": "Part time",
+        "startDate": "20130-04-15 format",
+        "endDate": "2016-07-20 format",
+        "gpa": "7.5",
+        "courses": [
+          ""
+        ]
+      }
+    ],
+    
+    "languages": [
+      {
+        "language": "Tamil, English",
+        "fluency": "Tamil"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Sports",
+        "keywords": [
+          "Cricket"
+        ]
+      }
+    ]
+}
+
